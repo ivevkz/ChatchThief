@@ -55,6 +55,9 @@ public class SoundControl : MonoBehaviour
             }                
         }
         else
+        {
             return;
+        }
+            
     }
 }

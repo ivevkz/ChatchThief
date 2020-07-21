@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8143CD4A-E0C2-709B-0F77-38FBE0C9F186}</ProjectGuid>
+    <ProjectGuid>{61C5EA83-F122-8763-DBA8-9DE7E3ED1F04}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -604,37 +604,37 @@
       <HintPath>E:/_Unity_/2019.4.3f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/OBUCHENIE/___!!!!!____ЯЮниор/Unity/CatchThief/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>F:/_Unity_/_GitHub/ChatchThief/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
