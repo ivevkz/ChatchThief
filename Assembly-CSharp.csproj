@@ -68,7 +68,7 @@
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\ShowThePlaceOfHacking.cs" />
-    <Compile Include="Assets\Scripts\SoundControl.cs" />
+    <Compile Include="Assets\Scripts\SoundPlayStop.cs" />
     <Reference Include="UnityEngine">
       <HintPath>E:/_Unity_/2019.4.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
